@@ -1,5 +1,5 @@
-# Object-oriented_design
-Project in java using design patterns
+# Object-Oriented-Design
+Project in java using different design patterns
 
 ## 1 Opis
 Celem laboratorium jest zapoznanie się z podstawowymi wzorcami projektowymi.
